@@ -12,6 +12,10 @@
   
 ## Project Overview
 
+![Screenshot 2024-10-14 193053](https://github.com/user-attachments/assets/48ecc8b4-3327-4741-97f7-ae39a884aa1e)
+
+![Screenshot 2024-10-14 193053](https://github.com/user-attachments/assets/48ecc8b4-3327-4741-97f7-ae39a884aa1e)
+
 This Data Analsis project aims to generate actionable insights from the retail sales data to enhance sales performance of the coffee shop.
 By analyzing various aspect of the sales data, i seek to identify:
 - How Sales vary by Day of the week and Hour of the day,
@@ -21,6 +25,9 @@ By analyzing various aspect of the sales data, i seek to identify:
 - If there were pick times for Sales activities,
 - The Variations in Size categories of products and
 - The Best Selling Products Categories and Types.
+
+
+
 
 ## Data Sources
 Sales Data: The primary dataset used for this analysis is "Coffee Shop Sales" Excel file, containing detailed information of each sales made by the company. [Download here](https://mavenanalytics.io/data-Playground?order=date_added%2Cdesc&search=coff)
