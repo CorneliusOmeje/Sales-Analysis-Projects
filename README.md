@@ -62,13 +62,13 @@ Avg Sale per Person = DIVIDE([Total Sales],[Total orders],0)
 ```
 
 ## Findings
-1. The analysis results are summarized as follows:
-2. The Coffee shop sales have been steadily increasing over the past months.
-3. Mondays accounted for the highest total sales followed by Fridays and Thursdays.
-4. The peak of sales activity during the day is at the 10th Hour.
-5. There is high inflow of orders on Fridays compared to other weekdays.
-6. Product of regular sizes are the most ordered from the findings.
-7. The top selling product Category from this analysis is Coffee.
+ The analysis results are summarized as follows:
+1. The Coffee shop sales have been steadily increasing over the past months.
+2. Mondays accounted for the highest total sales followed by Fridays and Thursdays.
+3. The peak of sales activity during the day is at the 10th Hour.
+4. There is high inflow of orders on Fridays compared to other weekdays.
+5. Product of regular sizes are the most ordered from the findings.
+6. The top selling product Category from this analysis is Coffee.
 
 ## Recommendations
 Based on the analysis conducted, i recommend the following:
