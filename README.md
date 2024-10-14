@@ -12,10 +12,6 @@
   
 ## Project Overview
 
-![Screenshot 2024-10-14 193053](https://github.com/user-attachments/assets/48ecc8b4-3327-4741-97f7-ae39a884aa1e)
-
-![Screenshot 2024-10-14 193053](https://github.com/user-attachments/assets/48ecc8b4-3327-4741-97f7-ae39a884aa1e)
-
 This Data Analsis project aims to generate actionable insights from the retail sales data to enhance sales performance of the coffee shop.
 By analyzing various aspect of the sales data, i seek to identify:
 - How Sales vary by Day of the week and Hour of the day,
@@ -26,6 +22,7 @@ By analyzing various aspect of the sales data, i seek to identify:
 - The Variations in Size categories of products and
 - The Best Selling Products Categories and Types.
 
+![Screenshot 2024-10-14 193053](https://github.com/user-attachments/assets/48ecc8b4-3327-4741-97f7-ae39a884aa1e)
 
 
 
@@ -52,6 +49,18 @@ EDA involves exploring the Sales Data to answer key questions, such as:
 - How Sales vary across different Store locations
 - What are the peak selling period
 - What are the best selling Products Categories and Types
+
+![Screenshot 2024-10-14 195200](https://github.com/user-attachments/assets/31b28370-4538-4172-a132-377a135e9d81)
+
+ 
+![Screenshot 2024-10-14 195046](https://github.com/user-attachments/assets/69bb0784-0689-40f2-8bba-20edc60aa55a)
+
+
+![Screenshot 2024-10-14 195322](https://github.com/user-attachments/assets/cd843b3d-554b-4f53-891c-8a0a647c3bec)
+
+
+![Screenshot 2024-10-14 195224](https://github.com/user-attachments/assets/cf196487-402c-44c6-a139-8cbad92eced3)
+
 
 ## Data Analysis
 Power Pivot was used for creating some measures using DAX Funcions. Some of the measures used for these analysis include:
