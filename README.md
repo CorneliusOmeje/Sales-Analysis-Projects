@@ -91,6 +91,7 @@ Based on the analysis conducted, i recommend the following:
 - There should be a Shift scheduling strategy of sales rep being targeted on fridays to ensure smooth and timely order processing and better customer experiences.
 - To ensure a balanced customer to sales representative ratio, more sales reps should be placed between 8am and 9am daily on the selling floor.
 - Promotions and Marketing campaigns should be targeted on Coffee Product category.
+- Regular and Large Sizes should be priotized during replenishments.
 
 
 
