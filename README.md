@@ -61,6 +61,8 @@ EDA involves exploring the Sales Data to answer key questions, such as:
 
 ![Screenshot 2024-10-14 195224](https://github.com/user-attachments/assets/cf196487-402c-44c6-a139-8cbad92eced3)
 
+![Screenshot 2024-11-19 101522](https://github.com/user-attachments/assets/6e79ea79-0a05-473c-a7cc-64d955b4e541)
+
 
 ## Data Analysis
 Power Pivot was used for creating some measures using DAX Funcions. Some of the measures used for these analysis include:
