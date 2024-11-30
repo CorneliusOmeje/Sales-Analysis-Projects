@@ -22,9 +22,7 @@ By analyzing various aspect of the sales data, i seek to identify:
 - The Variations in Size categories of products and
 - The Best Selling Products Categories and Types.
 
-![Screenshot 2024-10-14 193053](https://github.com/user-attachments/assets/48ecc8b4-3327-4741-97f7-ae39a884aa1e)
-
-
+![Screenshot 2024-11-30 021304](https://github.com/user-attachments/assets/5cc48924-6284-40c6-bcac-90c5b4296e3a)
 
 ## Data Sources
 Sales Data: The primary dataset used for this analysis is "Coffee Shop Sales" Excel file, containing detailed information of each sales made by the company. [Download here](https://mavenanalytics.io/data-Playground?order=date_added%2Cdesc&search=coff)
@@ -45,23 +43,18 @@ In the initial Data Cleaning and Preparation Phase, i performed the following ta
 
 ## Exploratory Data Analysis
 EDA involves exploring the Sales Data to answer key questions, such as:
-- How Sales vary by Day of the week and Hour of the day
-- How Sales vary across different Store locations
-- What are the peak selling period
-- What are the best selling Products Categories and Types
+- How do Sales vary by Day of the week and Hour of the day?
+- How do Sales vary across different Store locations?
+- What are the peak time of selling activities?
+- What are the best selling Products Categories and Types?
+- Which Product Sizes is more profitable?
 
-![Screenshot 2024-10-14 195200](https://github.com/user-attachments/assets/31b28370-4538-4172-a132-377a135e9d81)
-
- 
-![Screenshot 2024-10-14 195046](https://github.com/user-attachments/assets/69bb0784-0689-40f2-8bba-20edc60aa55a)
-
-
-![Screenshot 2024-10-14 195322](https://github.com/user-attachments/assets/cd843b3d-554b-4f53-891c-8a0a647c3bec)
-
-
-![Screenshot 2024-10-14 195224](https://github.com/user-attachments/assets/cf196487-402c-44c6-a139-8cbad92eced3)
-
-![Screenshot 2024-11-19 101522](https://github.com/user-attachments/assets/6e79ea79-0a05-473c-a7cc-64d955b4e541)
+![Screenshot 2024-11-30 021828](https://github.com/user-attachments/assets/540bcd33-3fdc-48a5-ba33-ed9123b8668a)
+![Screenshot 2024-11-30 021649](https://github.com/user-attachments/assets/2a9148a2-fbc7-4b9f-96e6-c45ab3ce9640)
+![Screenshot 2024-11-30 021624](https://github.com/user-attachments/assets/28766736-4707-4d85-a77f-c66b38b29ee2)
+![Screenshot 2024-11-30 021602](https://github.com/user-attachments/assets/50196260-2cf2-4649-a542-6a8227095862)
+![Screenshot 2024-11-30 021440](https://github.com/user-attachments/assets/21b02add-8190-405f-bc34-906ca29833c2)
+![Screenshot 2024-11-30 021927](https://github.com/user-attachments/assets/ed14e657-2407-4793-9bac-a507f5f415eb)
 
 
 ## Data Analysis
